@@ -1,0 +1,5 @@
+    Title : Pig Latin Text Converter
+   Author : Bradley Buskey
+  Company : Sturm Computer Consulting
+  Version : 1.0.0
+ Compiler : Visual Basic 6.0 Enterprise Edition
